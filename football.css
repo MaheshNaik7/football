@@ -1,0 +1,75 @@
+ *{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+}
+
+body{
+    background-color:rgb(249, 250, 252);
+}
+
+header{
+    padding: 50px;
+    text-align: center;
+    background: rgb(17, 143, 158);
+    
+}
+
+
+header h1{
+    font-size: 40px;
+} 
+
+nav{
+    background-color: rgb(9, 10, 10);
+    overflow: hidden;
+}
+
+nav a{
+    display:block;
+    color: white;
+   text-decoration: none;
+    padding: 14px 20px;
+   float: left;
+}
+
+section{
+    text-align: center;
+    padding-top: 40px;
+    height: 100vh;
+}
+
+videos {
+     padding: 0px 30px;
+} 
+
+.icons a {
+    background-color: rgb(125 125 125 / 25%);
+    padding: 10px 15px;
+    border-radius: 30px;
+    margin: 5px 10px;
+    text-decoration: none;
+}
+
+.icons a:hover{
+    background-color: rgb(30 30 30 / 25%);
+}
+
+.icons a i{
+    margin: 5px;
+}
+
+.yt_icon{
+    color:rgb(180, 0, 36);
+}
+
+.in_icon{
+    color: #0e76a8;
+}
+
+.insta_icon{
+    color: #dd2a7b;
+}
